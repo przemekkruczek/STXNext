@@ -1,5 +1,5 @@
-# Monterail - form
-
+# STXNext - task
+Demo: https://przemekkruczek.github.io/STXNext/
 ## Installing 
 To start just copy repository and run it via npm. 
 
