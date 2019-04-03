@@ -1,0 +1,7 @@
+.item__book.item {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.item__book.item img {
+  max-width: 130px;
+}
